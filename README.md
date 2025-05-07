@@ -270,42 +270,45 @@ Here are some screenshots of the IDURAR ERP/CRM application to give you a previe
 
 ### 1. Home Page
 
- ![Screenshot 2025-05-08 000530](https://github.com/user-attachments/assets/f140c6b8-e6ef-4c21-b76f-56f52f462ef1)
+![Screenshot 2025-05-08 000530](https://github.com/user-attachments/assets/8f0a3f83-9982-46fe-8bd3-73b748b4f0fb)
+
  
 ---
 
 ### 2. Contact Page
 
-![Screenshot 2025-05-08 000540](https://github.com/user-attachments/assets/01a59bd5-cc85-4266-b31d-06da3320d8d9)
+
+![Screenshot 2025-05-08 000540](https://github.com/user-attachments/assets/1fda4951-9c28-4782-ab33-b9542e52248d)
 
 ---
 
 ### 3. New Contact Page
-![Screenshot 2025-05-08 000603](https://github.com/user-attachments/assets/c8ae613f-9b83-48b8-b370-13e901969acb)
+
+![Screenshot 2025-05-08 000603](https://github.com/user-attachments/assets/f31745cd-da90-490b-a97e-253a3d97d7ce)
 
 ---
 
 ### 4. Edit Contact Page (Data Edited)
 
-![Screenshot 2025-05-08 000708](https://github.com/user-attachments/assets/65ee9773-c8a3-4303-8af3-ebaf011a9868)
+![Screenshot 2025-05-08 000708](https://github.com/user-attachments/assets/e52708ec-7729-4ca3-ac1c-5620c74370b4)
 
 ---
 
-### 5. Interaction Page
+### 5. Delete Contact Page
 
-![Screenshot 2025-05-08 000708](https://github.com/user-attachments/assets/5a2d9973-fef3-4e34-9bb9-dba487c081df)
 
----
-
-### 6. Delete Contact Page
-
-![Screenshot 2025-05-08 000716](https://github.com/user-attachments/assets/2ff6a60d-5874-4e0a-b7c8-070660b5ef4c)
+![Screenshot 2025-05-08 000716](https://github.com/user-attachments/assets/72baa18f-5257-4458-92bb-c38ddc5f856d)
 
 ---
 
+### 6. Interaction Page
+![Screenshot 2025-05-08 000726](https://github.com/user-attachments/assets/237cbbd6-5550-4103-9f23-3a7c1097b418)
+
+---
 ### 7. Dark Mode Enabled Page
+![Screenshot 2025-05-08 000741](https://github.com/user-attachments/assets/d4d5f8ab-a162-483c-b46a-b4a9c5dd022d)
 
-![Screenshot 2025-05-08 000741](https://github.com/user-attachments/assets/b96af939-5f86-401c-9e6c-dc89651263a2)
+
 
 
 
