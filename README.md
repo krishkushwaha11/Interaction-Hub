@@ -270,50 +270,44 @@ Here are some screenshots of the IDURAR ERP/CRM application to give you a previe
 
 ### 1. Home Page
 
-![Home Page Screenshot](path/to/home-page.png)  
-*Add a screenshot of the home page UI.*
-
+ ![Screenshot 2025-05-08 000530](https://github.com/user-attachments/assets/f140c6b8-e6ef-4c21-b76f-56f52f462ef1)
+ 
 ---
 
 ### 2. Contact Page
 
-![Contact Page Screenshot](path/to/contact-page.png)  
-*Add a screenshot of the contact listing page where all contacts are displayed.*
+![Screenshot 2025-05-08 000540](https://github.com/user-attachments/assets/01a59bd5-cc85-4266-b31d-06da3320d8d9)
 
 ---
 
 ### 3. New Contact Page
-
-![New Contact Page Screenshot](path/to/new-contact-page.png)  
-*Add a screenshot of the new contact page where users can add new contacts.*
+![Screenshot 2025-05-08 000603](https://github.com/user-attachments/assets/c8ae613f-9b83-48b8-b370-13e901969acb)
 
 ---
 
 ### 4. Edit Contact Page (Data Edited)
 
-![Edit Contact Page Screenshot](path/to/edit-contact-page.png)  
-*Add a screenshot of the page where contact data is displayed and can be edited.*
+![Screenshot 2025-05-08 000708](https://github.com/user-attachments/assets/65ee9773-c8a3-4303-8af3-ebaf011a9868)
 
 ---
 
 ### 5. Interaction Page
 
-![Interaction Page Screenshot](path/to/interaction-page.png)  
-*Add a screenshot of the interaction page where notes or interactions with contacts are displayed.*
+![Screenshot 2025-05-08 000708](https://github.com/user-attachments/assets/5a2d9973-fef3-4e34-9bb9-dba487c081df)
 
 ---
 
 ### 6. Delete Contact Page
 
-![Delete Contact Page Screenshot](path/to/delete-contact-page.png)  
-*Add a screenshot of the page for deleting a contact.*
+![Screenshot 2025-05-08 000716](https://github.com/user-attachments/assets/2ff6a60d-5874-4e0a-b7c8-070660b5ef4c)
 
 ---
 
 ### 7. Dark Mode Enabled Page
 
-![Dark Mode Screenshot](path/to/dark-mode.png)  
-*Add a screenshot of the app with dark mode enabled.*
+![Screenshot 2025-05-08 000741](https://github.com/user-attachments/assets/b96af939-5f86-401c-9e6c-dc89651263a2)
+
+
 
 ---
 
