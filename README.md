@@ -319,7 +319,7 @@ Here are some screenshots of the IDURAR ERP/CRM application to give you a previe
 
 ## 📬 Submission
 
-- **GitHub Repo**: [https://github.com/krishkushwaha11/CRM_Project)
+- **GitHub Repo**: [https://github.com/krishkushwaha11/Interaction-Hub)
 - **Demo URL**: [https://contact-mini-crm.vercel.app](https://contact-mini-crm.vercel.app)
 - **Loom Video**: [https://www.loom.com/share/c78c302311d54c1981436df33158f321?sid=49ffa4a4-26e0-40be-8537-46bb960d135c)
 
