@@ -7,18 +7,14 @@
 **Interaction Hub** is a modular and scalable web application built using modern web technologies. It provides users with interactive features and a smooth user interface, enabling efficient access to tools and services.
 
 ---
-## 🛠️ Tech Stack
+## Technologies Used
+- **Next.js** (App Router)
+- **React** (Hooks)
+- **Zustand** (State Management)
+- **Tailwind CSS** (Styling)
+- **LocalStorage** (Data Persistence)
 
-| Technology         | Description                  |
-|--------------------|------------------------------|
-| **Frontend**        | HTML, CSS, JavaScript        |
-| **Build Tool**      | Vite                         |
-| **Styling**         | Tailwind CSS                 |
-| **Language**        | TypeScript                   |
-| **Package Manager** | Bun                          |
-| **Linting**         | ESLint                       |
-| **Config Tools**    | PostCSS, tsconfig            |
-
+- 
 ## ✨ Features
 
 ### 🔄 Core ERP/CRM Functionality
