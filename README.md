@@ -1,6 +1,6 @@
 # 🚀 Interaction Hub : Contact & Interaction Management System
 
-# 🧩 Contact & Interaction Mini‑CRM
+# ⚡⚡ Contact & Interaction Mini‑CRM ⚡⚡
 
 ## Project Overview
 
