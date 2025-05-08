@@ -14,7 +14,7 @@
 - **Tailwind CSS** (Styling)
 - **LocalStorage** (Data Persistence)
 
-- 
+
 ## ✨ Features
 
 ### 🔄 Core ERP/CRM Functionality
