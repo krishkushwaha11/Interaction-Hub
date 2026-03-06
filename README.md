@@ -83,7 +83,7 @@ idurar-erp-crm/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/ Interaction Mini‑CRM.git
+   git clone https://github.com/krishkushwaha11/Interaction-Hub
    cd contact-mini-crm
    ```
 
@@ -101,7 +101,7 @@ idurar-erp-crm/
 
 4. **Open in browser**
 
-   Visit: [http://localhost:3000](http://localhost:3000)
+   Visit: [https://interaction-hub.vercel.app/)
 
 ---
 
