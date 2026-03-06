@@ -316,7 +316,7 @@ Here are some screenshots of the IDURAR ERP/CRM application to give you a previe
 ## 📬 Submission
 
 - **GitHub Repo**: [https://github.com/krishkushwaha11/Interaction-Hub)
-- **Demo URL**: [https://contact-mini-crm.vercel.app](https://contact-mini-crm.vercel.app)
+- **Demo URL**: [https://interaction-hub.vercel.app/)
 - **Loom Video**: [https://www.loom.com/share/0963b90d8eb64f859f5cde134e8ff3c9?sid=920d750f-3c0a-4b85-9a4c-398b4043d178)
 
 - 
